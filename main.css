@@ -51,7 +51,7 @@ header{
 
 
 .jumbotron.main{
-    background:url(./images/mainvisual.jpg) center no-repeat;
+    background:url(https://TakahoItaya.github.io/TI-Technologies/images/mainvisual.jpg) center no-repeat;
     background-size: cover;
     background-color:rgba(0,0,0,0.4);
     background-blend-mode:darken;
@@ -95,7 +95,7 @@ header{
 }
 
 .jumbotron.vision-image{
-    background:url(./images/pedro-lastra-Nyvq2juw4_o-unsplash.jpg) center no-repeat;
+    background:url(https://TakahoItaya.github.io/TI-Technologies/images/pedro-lastra-Nyvq2juw4_o-unsplash.jpg) center no-repeat;
     background-size: cover;
     background-color:rgba(0,0,0,0.4);
     background-blend-mode:darken;
